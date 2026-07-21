@@ -1,6 +1,6 @@
-## Spotify Songs Analysis Using MySQL##
+## Spotify Songs Analysis Using MySQL ##
 
-📌 Project Overview
+##📌 Project Overview ##
 This project analyzes a Spotify songs dataset using MySQL to uncover trends in song popularity, artist performance, streaming statistics, playlist presence, and audio features.
 The objective was to practice SQL by answering real business questions and transforming raw data into actionable insights.
 
