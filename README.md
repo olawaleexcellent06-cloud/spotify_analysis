@@ -10,11 +10,11 @@ Database: MySQL
 Table: popular_spotify_songs
 
 🎯 Project Objectives
-Analyze streaming performance.
-Explore artist popularity.
-Compare song characteristics.
-Identify music trends.
-Practice writing SQL queries for business analysis.
+- Analyze streaming performance.
+- Explore artist popularity.
+- Compare song characteristics.
+- Identify music trends.
+- Practice writing SQL queries for business analysis.
 
 🛠 SQL Skills Demonstrated
 SELECT
@@ -31,26 +31,26 @@ LIMIT
 Aliases
 
 📊 Business Questions Answered
-What is the average number of streams?
-Which songs have the highest streams?
-Which artists have the most songs?
-Which release year contains the most songs?
-Which release year has the highest average streams?
-Which musical key is used most frequently?
-How many songs are in Major and Minor mode?
-Which songs have danceability above 80%?
-Which songs have above-average energy?
-Which songs appear in Spotify charts but not Apple charts?
-Categorize songs using a CASE statement based on stream counts.
-Which artists have more than three songs?
-Which artists have both multiple songs and above-average streams?
-Which songs have above-average danceability but below-average streams?
-Which songs have the highest acousticness?
-Which artists released songs across multiple years?
-Compare average streams before and after 2020.
-Which songs appear in both Spotify and Apple playlists the most?
-Rank artists by total streams.
-Generate a yearly summary report of song performance.
+- What is the average number of streams?
+- Which songs have the highest streams?
+- Which artists have the most songs?
+- Which release year contains the most songs?
+- Which release year has the highest average streams?
+- Which musical key is used most frequently?
+- How many songs are in Major and Minor mode?
+- Which songs have danceability above 80%?
+- Which songs have above-average energy?
+- Which songs appear in Spotify charts but not Apple charts?
+- Categorize songs using a CASE statement based on stream counts.
+- Which artists have more than three songs?
+ -Which artists have both multiple songs and above-average streams?
+- Which songs have above-average danceability but below-average streams?
+- Which songs have the highest acousticness?
+- Which artists released songs across multiple years?
+- Compare average streams before and after 2020.
+- Which songs appear in both Spotify and Apple playlists the most?
+- Rank artists by total streams.
+- Generate a yearly summary report of song performance.
 
 💡 Key Insights
 A small number of artists account for a large share of total streams.
