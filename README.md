@@ -1,4 +1,4 @@
-🎵 Spotify Songs Analysis Using MySQL
+## Spotify Songs Analysis Using MySQL##
 
 📌 Project Overview
 This project analyzes a Spotify songs dataset using MySQL to uncover trends in song popularity, artist performance, streaming statistics, playlist presence, and audio features.
@@ -8,12 +8,14 @@ The objective was to practice SQL by answering real business questions and trans
 Source: Kaggle – Spotify Songs Analytics Dataset
 Database: MySQL
 Table: popular_spotify_songs
+
 🎯 Project Objectives
 Analyze streaming performance.
 Explore artist popularity.
 Compare song characteristics.
 Identify music trends.
 Practice writing SQL queries for business analysis.
+
 🛠 SQL Skills Demonstrated
 SELECT
 WHERE
@@ -27,6 +29,7 @@ COUNT(DISTINCT)
 Window Functions (RANK())
 LIMIT
 Aliases
+
 📊 Business Questions Answered
 What is the average number of streams?
 Which songs have the highest streams?
@@ -48,6 +51,7 @@ Compare average streams before and after 2020.
 Which songs appear in both Spotify and Apple playlists the most?
 Rank artists by total streams.
 Generate a yearly summary report of song performance.
+
 💡 Key Insights
 A small number of artists account for a large share of total streams.
 Recent release years contain more songs than earlier years.
@@ -55,9 +59,11 @@ Some highly danceable songs receive below-average streams, showing that danceabi
 Major mode songs appear more frequently than Minor mode songs.
 Playlist appearances vary significantly across songs and platforms.
 Stream counts differ considerably between artists and release years.
+
 📁 Files
 spotify_analysis.sql
 README.md
+
 🚀 Skills Demonstrated
 SQL Query Writing
 Exploratory Data Analysis (EDA)
@@ -66,14 +72,11 @@ Business Analysis
 Data Cleaning
 Analytical Thinking
 Reporting with SQL
+
 👨‍💻 Author
-
 Olawale Excellent
-
 Aspiring Data Analyst skilled in:
-
 MySQL
 Microsoft Excel
 Power BI
-
 Passionate about transforming data into meaningful business insights through practical, real-world projects.
